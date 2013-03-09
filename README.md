@@ -1,4 +1,6 @@
 - With [KeyboardRemap4MacBook][],
+    - (which, btw, by default adds a menu bar icon, which is I think
+      is annoying and disabled)
     - under "Change F1..F19 Key & Functional Key (Brightness Control,
       Music Control, Volume Control)",
         - under "Functional Keys to F1..F12",
