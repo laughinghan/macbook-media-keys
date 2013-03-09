@@ -5,9 +5,9 @@
       Music Control, Volume Control)",
         - under "Functional Keys to F1..F12",
             - check "Music Controls to F7,F8,F9".
-- In System Preferences,
-    - under Keyboard,
-        - under Keyboard Shortcuts > Expose & Spaces > Spaces,
+- If you are on OS X 10.5 (Snow Leopard) or earlier, then
+    - in System Preferences,
+        - under Keyboard > Keyboard Shortcuts > Expose & Spaces > Spaces,
             - make sure "Activate Spaces" with F8 is NOT checked.
 - With [BetterTouchTool][],
     - under Gestures > Keyboard,
